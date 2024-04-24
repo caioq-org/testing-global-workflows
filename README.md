@@ -1,4 +1,4 @@
 # testing-global-workflows
 Repository dedicated to test global workflows
 
-Testing workflow 2
+Testing workflow 3
