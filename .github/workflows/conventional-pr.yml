@@ -10,7 +10,6 @@ on:
 
 jobs:
   conventional-pr:
-    runs-on: github-actions-developers-runner
     steps:
       - uses: amannn/action-semantic-pull-request@v5.4.0
         env:
